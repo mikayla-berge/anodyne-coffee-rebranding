@@ -1,0 +1,26 @@
+.font{
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 380px;
+    padding-top: 20px;
+}
+
+.a-link{
+    text-decoration: none;
+    color: rgb(197, 0, 0);
+}
+
+.link-lists{
+    list-style-type: none;
+    padding-right: 30px;
+}
+

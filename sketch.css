@@ -1,0 +1,38 @@
+.current{
+    background-color:rgb(218, 160, 109);
+}
+
+.bolder{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.digital-images{
+    width: 500px;
+    height: auto;
+}
+
+.normal{
+    display: flex;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.special{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.first{
+    font-size: 3rem;
+    padding-left: 30px;
+    padding-top: 250px;
+}
+
+.second{
+    font-size: 3rem;
+    padding-right: 30px;
+    padding-top: 250px;
+}
