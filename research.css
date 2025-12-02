@@ -1,0 +1,22 @@
+h1{
+    font-size: 3rem;
+}
+
+.current{
+    background-color:rgb(218, 160, 109);
+}
+
+.sticky-images{
+    width: auto;
+    height: 585px;
+}
+
+.all-images{
+    display: flex;
+    flex-direction:column;
+}
+
+.sticky{
+    width: 499px;
+    height: auto;
+}

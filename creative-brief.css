@@ -1,0 +1,23 @@
+h1{
+    font-size: 2rem;
+    text-align: center;
+}
+
+p{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.main{
+    padding-left: 140px;
+}
+
+.image-brief{
+    display: block;
+    margin: 0 auto;
+    align-content: center;
+}
+
+.current{
+    background-color:rgb(218, 160, 109);
+}

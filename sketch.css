@@ -27,7 +27,7 @@
 
 .first{
     font-size: 3rem;
-    padding-left: 30px;
+    padding-left: 20px;
     padding-top: 250px;
 }
 
@@ -35,4 +35,8 @@
     font-size: 3rem;
     padding-right: 30px;
     padding-top: 250px;
+}
+
+.main{
+    padding-right: 70px;
 }
