@@ -1,0 +1,23 @@
+h2{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+.current{
+    background-color:rgb(218, 160, 109);
+}
+
+.wordmark{
+    height: auto;
+    width: 500px;
+    padding-left: 70px;
+}
+
+.font{
+    display: flex;
+    align-content: space-evenly;
+    padding-top: 50px;
+}
